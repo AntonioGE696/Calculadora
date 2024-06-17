@@ -13,15 +13,19 @@ while True:
     valor = int(input("Elige una opcion: ") )     
 
     if valor == 1:
+        num1 + num2
         print("la suma es",num1+num2)
         break;
     if valor == 2:
+        num1-num2
         print("la resta es",num1-num2)
         break;
     if valor == 3:
+        num1*num2
         print("la multiplicacion es",num1*num2)
         break;
     if valor == 4:
+        num1/num2
         print("la division es",num1/num2)
         break;
     else:
