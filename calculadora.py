@@ -3,6 +3,7 @@ num2 = int(input("numero 2: "))
 
 valor = 0
 while True:
+    print("Hola mundo")
     print("""seleccione opcion
             1- Sumar 
             2- Restar
